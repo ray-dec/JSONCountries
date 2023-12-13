@@ -1,6 +1,7 @@
 # JSONCountries
 
 Ce projet a pour but de créer un référentiel pays basé sur le projet GitHub suivant : https://github.com/stefangabos/world_countries/
+
 Le but est de traiter en entrée l'ensemble des fichiers ayant pour information le pays, le code et l'intitulé du pays (dans la langue sélectionné) vers un format de type JSON utilisable sur un site internet et qui viendra sélectionner le bon nom d'usage du pays en fonction de la langue du navigateur. 
 Le fichier final permettra d'obtenir un référentiel unique par pays du nom en anglais (référence) vers le nom d'appellation dans la langue sélectionnée.
 
